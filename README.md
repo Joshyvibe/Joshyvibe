@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey 👋, I'm <a href="https://github.com/JoshyVibe">Joshy Vibe</a></h1>
+<h1 align="center">Hey 👋, I'm <a href="https://github.com/Joshyvibe">Joshyvibe</a></h1>
 <h3 align="center">Full-Stack Engineer | Django • React • Flutter • DevOps</h3>
 
 <p align="center">
