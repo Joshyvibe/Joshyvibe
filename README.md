@@ -43,7 +43,7 @@
 ## 🚀 Featured Projects
 
 ### 🏡 [EstatePadi.com](https://estatepadi.com)
-> A smart real-estate management platform for landlords, estateadmins, and residents.  
+> A smart real-estate management platform for landlords, estate admins, and residents.  
 > **Stack:** Django REST Framework · React · RESTful APIs · Django · Celery 
 > **Highlights:** Role-based dashboards and maintenance automation.
 
